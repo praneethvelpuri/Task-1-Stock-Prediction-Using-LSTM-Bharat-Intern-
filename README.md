@@ -1,7 +1,7 @@
-# MasterCard-Stock-Price-Prediction-Using-LSTM-and-GRU.ipynb
+# MasterCard-Stock-Price-Prediction-Using-LSTM.ipynb
 
 In this project, we are going to use Kaggle’s MasterCard stock dataset from 
-May-25-2006 to Oct-11-2021 and train the LSTM and GRU models to forecast the stock price. 
+May-25-2006 to Oct-11-2021 and train the LSTM models to forecast the stock price. 
 This is a simple project-based tutorial where we will analyze data, preprocess the data to
 train it on advanced RNN models, and finally evaluate the results.
 
